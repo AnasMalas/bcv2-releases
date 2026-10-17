@@ -1,12 +1,12 @@
 # BCv2 releases
 
-Firmware releases for the Negotiator II, my USB PD business card.
+Firmware releases for the Negotiator II USB PD business card.
 
-**Get emailed when theres new firmware:** press Watch at the top of this page, pick Custom and tick Releases. GitHub emails you, nothing else.
+To get an email for new firmware: Watch > Custom > Releases.
 
-- Update your card: [anasmalas.com/bcv2/update](https://anasmalas.com/bcv2/update/)
-- Whats new: [anasmalas.com/bcv2/changelog](https://anasmalas.com/bcv2/changelog/), or follow the [feed](https://anasmalas.com/bcv2/changelog.xml)
-- The guide: [anasmalas.com/bcv2](https://anasmalas.com/bcv2/)
-- The console: [anasmalas.com/bcv2/console](https://anasmalas.com/bcv2/console/)
+- Update your card: https://anasmalas.com/bcv2/update/
+- Release notes: https://anasmalas.com/bcv2/changelog/ ([feed](https://anasmalas.com/bcv2/changelog.xml))
+- Guide: https://anasmalas.com/bcv2/
+- Console: https://anasmalas.com/bcv2/console/
 
-Found a bug? Press "Report a bug" in the console.
+Report bugs with "Report a bug" in the console.
